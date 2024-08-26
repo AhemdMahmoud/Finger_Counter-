@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/hand-tracking-project.git
+   git clone https://github.com/AhemdMahmoud/Finger_Counter-.git
    ```
 
 
