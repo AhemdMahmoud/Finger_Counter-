@@ -8,6 +8,14 @@ This project uses computer vision techniques to track hand movements and count t
 - Finger counting (0-5)
 - FPS display
 
+
+## Demo
+
+![Hand Tracking Demo](https://github.com/AhemdMahmoud/Finger_Counter-/blob/main/Gif.gif)
+
+In this demo, you can see the hand tracking in action. The green rectangle shows the finger count, and the FPS is displayed in the top-left corner.
+
+
 ## Requirements
  ```
 pip install -r requirements.txt
@@ -40,10 +48,4 @@ python hand_tracking.py
 3. The program then analyzes the positions of key landmarks on the hand to determine which fingers are extended.
 4. A count of extended fingers is displayed on the screen.
 5. The current FPS (Frames Per Second) is also shown.
-
-## Demo
-
-![Hand Tracking Demo]()
-
-In this demo, you can see the hand tracking in action. The green rectangle shows the finger count, and the FPS is displayed in the top-left corner.
 
